@@ -214,7 +214,7 @@
         "date": "2023-06-06T11:42:16",
         "width": 126,
         "height": 189,
-        "duration": 2,
+        "duration": 3,
         "media_type": "animation",
         "original_name": "52206167.mp4",
         "url": "media/18.mp4",
@@ -302,6 +302,20 @@
     "id": 33,
     "date": "2023-06-06T14:43:58",
     "text": "Hmmm, emoji reactions is something I haven’t tested yet. Doing it now",
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "id": 34,
+    "date": "2023-06-06T19:18:48",
+    "text": "Looks like emoji reactions don’t appear in tg-blog version. Okay, let’s move on to another thing I haven’t tested yet: text formatting.",
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "id": 35,
+    "date": "2023-06-06T19:26:21",
+    "text": "Here’s <b>bold text</b>. Then here’s <em>text in italic</em>. Then <em>both bold and italic</em>. Then some <u>underlined thoughts</u>. Then <del>strikethrough</del>. Then <span class=\"spoiler\"><span>spoiler</span></span>. Then <code>monospace</code>. Then a link: <a href=\"https://github.com/\">https://github.com/</a>. Then <a href=\"https://www.youtube.com/watch?v=dQw4w9WgXcQ\">text link</a>. Then <a href=\"##hashtag\">#hashtag</a>. Then a mention <a href=\"https://t.me/durov\">@durov</a>. Then emoji: 💎",
     "views": 1,
     "forwards": 0
   }
