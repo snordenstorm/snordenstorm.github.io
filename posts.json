@@ -351,5 +351,55 @@
     "text": "Just tried two reposts: one with a picture, one without it.",
     "views": 1,
     "forwards": 0
+  },
+  {
+    "id": 39,
+    "date": "2023-06-06T20:16:36",
+    "views": 1,
+    "forwards": 0,
+    "files": [
+      {
+        "longitude": 14.534678443728037,
+        "latitude": 35.87701588350306,
+        "media_type": "location"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "date": "2023-06-06T20:17:22",
+    "text": "Now when the location is tested, let’s see how polls work in tg-blog.",
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "id": 41,
+    "date": "2023-06-06T20:29:36",
+    "views": 1,
+    "forwards": 0,
+    "files": [
+      {
+        "id": "5188506774889563500",
+        "question": "Who will win the 2023 UEFA Champions League final?",
+        "options": [
+          {
+            "text": "Manchester City",
+            "voter_count": 0,
+            "data": "MA=="
+          },
+          {
+            "text": "Inter Milan",
+            "voter_count": 0,
+            "data": "MQ=="
+          }
+        ],
+        "total_voter_count": 0,
+        "is_closed": false,
+        "is_anonymous": true,
+        "type": "QUIZ",
+        "allows_multiple_answers": false,
+        "media_type": "poll"
+      }
+    ]
   }
 ]
