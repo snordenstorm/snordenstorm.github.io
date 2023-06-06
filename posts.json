@@ -105,5 +105,178 @@
         "thumb": "media/8.mp4_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 9,
+    "date": "2023-06-06T11:30:10",
+    "text": "Test publication to see if there are issues with several pictures in one post.",
+    "views": 1,
+    "forwards": 0,
+    "media_group_id": 13488235281543970,
+    "images": [
+      {
+        "width": 1280,
+        "height": 960,
+        "date": "2023-06-06T11:30:05",
+        "media_type": "photo",
+        "original_name": "photo_2023-06-06_11-30-05.jpg",
+        "url": "media/9.jpg",
+        "size": 360095,
+        "thumb": "media/9.jpg_thumb.jpg"
+      },
+      {
+        "width": 800,
+        "height": 558,
+        "date": "2023-06-06T11:30:06",
+        "media_type": "photo",
+        "original_name": "photo_2023-06-06_11-30-06.jpg",
+        "url": "media/10.jpg",
+        "size": 43854
+      },
+      {
+        "width": 800,
+        "height": 792,
+        "date": "2023-06-06T11:30:07",
+        "media_type": "photo",
+        "original_name": "photo_2023-06-06_11-30-07.jpg",
+        "url": "media/11.jpg",
+        "size": 131778
+      },
+      {
+        "width": 800,
+        "height": 600,
+        "date": "2023-06-06T11:30:08",
+        "media_type": "photo",
+        "original_name": "photo_2023-06-06_11-30-08.jpg",
+        "url": "media/12.jpg",
+        "size": 129366
+      },
+      {
+        "width": 800,
+        "height": 540,
+        "date": "2023-06-06T11:30:09",
+        "media_type": "photo",
+        "original_name": "photo_2023-06-06_11-30-09.jpg",
+        "url": "media/13.jpg",
+        "size": 104080
+      },
+      {
+        "width": 800,
+        "height": 583,
+        "date": "2023-06-06T11:30:09",
+        "media_type": "photo",
+        "original_name": "photo_2023-06-06_11-30-09.jpg",
+        "url": "media/14.jpg",
+        "size": 59879
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "date": "2023-06-06T11:38:55",
+    "views": 1,
+    "forwards": 0,
+    "files": [
+      {
+        "file_name": "sticker.webp",
+        "mime_type": "image/webp",
+        "date": "2019-07-25T02:18:30",
+        "width": 512,
+        "height": 512,
+        "is_animated": false,
+        "is_video": false,
+        "emoji": "😻",
+        "set_name": "Nekonyaaaa",
+        "media_type": "sticker",
+        "original_name": "sticker.webp",
+        "url": "media/15.webp",
+        "size": 41186,
+        "thumb": "media/15.webp_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "date": "2023-06-06T11:41:30",
+    "text": "Just tested how stickers work (posted a sticker, posted another sticker then deleted it).",
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "id": 18,
+    "date": "2023-06-06T11:42:16",
+    "views": 1,
+    "forwards": 0,
+    "files": [
+      {
+        "file_name": "52206167.mp4",
+        "mime_type": "video/mp4",
+        "date": "2023-06-06T11:42:16",
+        "width": 126,
+        "height": 189,
+        "duration": 2,
+        "media_type": "animation",
+        "original_name": "52206167.mp4",
+        "url": "media/18.mp4",
+        "size": 155649,
+        "thumb": "media/18.mp4_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "date": "2023-06-06T11:42:31",
+    "text": "Just tested a GIF.",
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "id": 27,
+    "date": "2023-06-06T12:05:49",
+    "text": "Mixed media (1 picture, 2 videos) equipped with this text.",
+    "views": 1,
+    "forwards": 0,
+    "media_group_id": 13488252397954282,
+    "files": [
+      {
+        "width": 1080,
+        "height": 1920,
+        "duration": 6,
+        "file_name": "IMG_4957.mp4",
+        "mime_type": "video/mp4",
+        "supports_streaming": true,
+        "date": "2023-06-06T12:05:44",
+        "media_type": "video_file",
+        "original_name": "IMG_4957.mp4",
+        "url": "media/27.mp4",
+        "size": 9150585,
+        "thumb": "media/27.mp4_thumb.jpg"
+      },
+      {
+        "width": 1080,
+        "height": 1920,
+        "duration": 11,
+        "file_name": "IMG_6556.mp4",
+        "mime_type": "video/mp4",
+        "supports_streaming": true,
+        "date": "2023-06-06T12:05:49",
+        "media_type": "video_file",
+        "original_name": "IMG_6556.mp4",
+        "url": "media/28.mp4",
+        "size": 15150796,
+        "thumb": "media/28.mp4_thumb.jpg"
+      }
+    ],
+    "images": [
+      {
+        "width": 700,
+        "height": 797,
+        "date": "2023-06-06T11:52:26",
+        "media_type": "photo",
+        "original_name": "photo_2023-06-06_11-52-26.jpg",
+        "url": "media/29.jpg",
+        "size": 44178
+      }
+    ]
   }
 ]
