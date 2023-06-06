@@ -318,5 +318,38 @@
     "text": "Here’s <b>bold text</b>. Then here’s <em>text in italic</em>. Then <em>both bold and italic</em>. Then some <u>underlined thoughts</u>. Then <del>strikethrough</del>. Then <span class=\"spoiler\"><span>spoiler</span></span>. Then <code>monospace</code>. Then a link: <a href=\"https://github.com/\">https://github.com/</a>. Then <a href=\"https://www.youtube.com/watch?v=dQw4w9WgXcQ\">text link</a>. Then <a href=\"##hashtag\">#hashtag</a>. Then a mention <a href=\"https://t.me/durov\">@durov</a>. Then emoji: 💎",
     "views": 1,
     "forwards": 0
+  },
+  {
+    "id": 36,
+    "date": "2023-06-06T20:06:52",
+    "text": "BTC and ETH descending to historically low levels at 0.016 and 0.019 respectively <a href=\"https://coinmetrics.substack.com/p/state-of-the-network-issue-209\">— link</a>",
+    "views": 1,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 1200,
+        "height": 709,
+        "date": "2023-06-02T01:39:14",
+        "media_type": "photo",
+        "original_name": "photo_2023-06-02_01-39-14.jpg",
+        "url": "media/36.jpg",
+        "size": 53101,
+        "thumb": "media/36.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "date": "2023-06-06T20:07:34",
+    "text": "Binance Labs co-leads a $6.6m seed round for Fusionist to further support early-stage web3 gaming innovation <a href=\"https://www.binance.com/en/blog/ecosystem/binance-labs-coleads-a-$66m-seed-round-for-fusionist-to-further-support-earlystage-web3-gaming-innovation-4375527738929774082\">— link</a>",
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "id": 38,
+    "date": "2023-06-06T20:07:55",
+    "text": "Just tried two reposts: one with a picture, one without it.",
+    "views": 1,
+    "forwards": 0
   }
 ]
