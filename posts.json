@@ -528,5 +528,36 @@
     "text": "Testing how polls where (a lot) more than zero accounts voted look in tg-blog.",
     "views": 1,
     "forwards": 0
+  },
+  {
+    "id": 50,
+    "date": "2023-06-06T20:52:40",
+    "views": 1,
+    "forwards": 0,
+    "files": [
+      {
+        "id": "4977003966551293953",
+        "question": "Компания Apple потребовала от Telegram удалить разбрасывающий семена баклажан. Что лучше:",
+        "options": [
+          {
+            "text": "Удаление фонтанирующего баклажана 🍆",
+            "voter_count": 326179,
+            "data": "MA=="
+          },
+          {
+            "text": "Полное прекращение работы Telegram на устройствах Apple",
+            "voter_count": 534915,
+            "data": "MQ=="
+          }
+        ],
+        "total_voter_count": 861094,
+        "is_closed": false,
+        "is_anonymous": true,
+        "type": "REGULAR",
+        "allows_multiple_answers": false,
+        "chosen_option_id": 1,
+        "media_type": "poll"
+      }
+    ]
   }
 ]
