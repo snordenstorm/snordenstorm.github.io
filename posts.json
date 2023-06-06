@@ -559,5 +559,12 @@
         "media_type": "poll"
       }
     ]
+  },
+  {
+    "id": 51,
+    "date": "2023-06-06T20:57:22",
+    "text": "Tried another Telegram founder’s poll to see how polls I’ve voted in look like on tg-blog.",
+    "views": 1,
+    "forwards": 0
   }
 ]
