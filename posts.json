@@ -401,5 +401,132 @@
         "media_type": "poll"
       }
     ]
+  },
+  {
+    "id": 42,
+    "date": "2023-06-06T20:33:29",
+    "text": "<i class=\"custom-emoji\" emoji-src=\"emoji/5242367945409044100.tgs\">🇦🇷</i><i class=\"custom-emoji\" emoji-src=\"emoji/5373101763442255191.tgs\">⚽️</i><i class=\"custom-emoji\" emoji-src=\"emoji/5409008750893734809.tgs\">🏆</i><i class=\"custom-emoji\" emoji-src=\"emoji/5427052514094619126.tgs\">🤷‍♀️</i>",
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "id": 43,
+    "date": "2023-06-06T20:33:40",
+    "text": "Testing big emoji visualization.",
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "id": 44,
+    "date": "2023-06-06T20:34:44",
+    "views": 1,
+    "forwards": 0,
+    "files": [
+      {
+        "file_name": "AnimatedSticker.tgs",
+        "mime_type": "application/x-tgsticker",
+        "date": "2020-09-13T17:55:04",
+        "width": 512,
+        "height": 512,
+        "is_animated": true,
+        "is_video": false,
+        "emoji": "👍",
+        "set_name": "MiladyNoir",
+        "media_type": "sticker",
+        "original_name": "AnimatedSticker.tgs",
+        "url": "media/44.apng",
+        "size": 30613,
+        "thumb": "media/44.apng_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "date": "2023-06-06T20:34:49",
+    "text": "Testing animated sticker.",
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "id": 46,
+    "date": "2023-06-06T20:35:28",
+    "text": "<a href=\"https://decrypt.co/36296/sec-wrong-to-go-after-telegram-crypto-mom-hester-peirce\">https://decrypt.co/36296/sec-wrong-to-go-after-telegram-crypto-mom-hester-peirce</a>",
+    "views": 1,
+    "forwards": 0,
+    "files": [
+      {
+        "id": "7200854436786446687",
+        "url": "https://decrypt.co/36296/sec-wrong-to-go-after-telegram-crypto-mom-hester-peirce",
+        "display_url": "decrypt.co/36296/sec-wrong-to-go-after-telegram-crypto-mom-hester-peirce",
+        "type": "photo",
+        "site_name": "Decrypt",
+        "title": "SEC was wrong to go after Telegram’s $1.7B ICO, says Hester Peirce",
+        "description": "Commissioner Hester Peirce, AKA “Crypto Mom,” slammed the SEC for chasing after Telegram for its 2018 ICO, which forced it to abandon its crypto project.",
+        "photo": {
+          "width": 800,
+          "height": 400,
+          "file_size": 49487,
+          "date": "2020-07-22T02:40:01",
+          "thumbs": [
+            {
+              "width": 320,
+              "height": 160,
+              "file_size": 10655
+            },
+            {
+              "width": 1024,
+              "height": 512,
+              "file_size": 45031
+            }
+          ]
+        },
+        "author": "Robert Stevens",
+        "media_type": "web_page"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "date": "2023-06-06T20:35:47",
+    "text": "Testing how «instant view» will look in tg-blog.",
+    "views": 1,
+    "forwards": 0
+  },
+  {
+    "id": 48,
+    "date": "2023-06-06T20:36:37",
+    "views": 1,
+    "forwards": 0,
+    "files": [
+      {
+        "id": "4963005276564226049",
+        "question": "How did you like the privacy-focused update of Telegram?",
+        "options": [
+          {
+            "text": "Awesome, keep it up! 👍",
+            "voter_count": 0,
+            "data": "MA=="
+          },
+          {
+            "text": "Awful, take it back 👎",
+            "voter_count": 0,
+            "data": "MQ=="
+          }
+        ],
+        "total_voter_count": 1639217,
+        "is_closed": false,
+        "is_anonymous": true,
+        "type": "REGULAR",
+        "allows_multiple_answers": false,
+        "media_type": "poll"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "date": "2023-06-06T20:38:08",
+    "text": "Testing how polls where (a lot) more than zero accounts voted look in tg-blog.",
+    "views": 1,
+    "forwards": 0
   }
 ]
