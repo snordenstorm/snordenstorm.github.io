@@ -1,0 +1,158 @@
+<!DOCTYPE HTML>
+<html>
+ <head>
+ <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Таблица</title>
+  <style type="text/css">
+  .block1 { 
+    width: 330px; 
+    background: #222; /* #335473*/
+    padding: 5px;
+  /*  padding-right: 20px; */
+    border: solid 1px #49f0fe; 
+        position: center; 
+    float: left;
+    text-align: center;
+   }
+     .block2 { 
+    width: 330px; 
+    background: #61b1d2; /*rgba(254, 254, 158, 0.6);*/
+    padding: 5px;
+  /*  padding-right: 20px; */
+    border: solid 1px #49f0fe; 
+        position: center; 
+    float: left;
+    text-align: center;
+   }
+   A {
+    color: white; /* Цвет ссылок */ /* #f4e95d previous*/
+    text-decoration: none; /* Убирает подчеркивание для ссылок */
+   }
+   A:visited {
+  /*  color: #cecece; */ /* Цвет посещенных ссылок */
+   }
+   A:active {
+    color: #00ffff; /* Цвет активных (=по которым в данный момент происходит переход) ссылок */
+   }
+   A:hover { 
+    text-decoration: underline; /* Добавляем подчеркивание при наведении курсора на ссылку */
+    color: white;  /* #f4e95d previous*/
+   } 
+   TABLE {
+    width: 1000px; /* Ширина таблицы */
+   /* background: #fffff0; */ /* Цвет фона нечетных строк */
+  /*  border: 1px solid #a52a2a; */ /* Рамка вокруг таблицы */
+    border-collapse: collapse; /* Убираем двойные линии между ячейками */
+    margin: auto; 
+   }
+   body {
+   background: #222; /* #335473*/ /* Цвет фона */
+    color: white; /* Цвет текста */ /* #fc0 previous */
+   }
+   TD, TH {
+    padding: 3px; /* Поля вокруг содержимого ячейки */
+   }
+   TD {
+    text-align: center; /* Выравнивание по центру */
+    border-bottom: 1px solid #49f0fe; /* Линия внизу ячейки */ /* a52a2a previous */
+   }
+   TH {
+   /* background: #a52a2a; */ /* Цвет фона */
+    color: white; /* Цвет текста */
+   }
+   TR.ucl {
+    background: #3e5636; /* Цвет фона тех, кто находится в зоне Лиги Чемпионов */
+   }
+   .relegate {
+    background: #c04356; /* Цвет фона тех, кто находится в зоне вылета */
+   }
+   .la {
+    text-align: left; /* Выравнивание по левому краю */      
+   }
+  </style> 
+ </head>
+ <body>
+
+<!--<b><a href="table.html"><div class="block1">Tables</div></a></b><b><a href="index.html"><div class="block1">Fixtures</div></a></b><b><a href="squad.html"><div class="block2">Squads</div></a></b> -->
+
+ <table>                              
+    <th><b><a href="table.html"><div class="block1">Tables</div></a></b></th><th><b><a href="index.html"><div class="block1">Fixtures</div></a></b></th><th><b><a href="squad.html"><div class="block2">Squads</div></a></b></th>
+  </table>
+
+  <table>                                 
+   <tr>
+    <th class="la">Pos</th><th>&nbsp;</th><th>&nbsp;<!-- if "Yel"--></th><th>Nat</th><th>Age</th><th>Gls</th><th>Pas</th><th>App</th><th>Min</th> <!-- "&nbsp;" если нужно пропустить -->
+   </tr>
+   <tr>
+    <td class="la">GK</td><td class="la">Casillas, I.</td><td>&nbsp;</td><td>&nbsp;</td><td>33</td><td>0</td><td>0</td><td>17</td><td>1530</td>
+   </tr>
+         <tr>
+    <td class="la">GK</td><td class="la">Navas, K.</td><td>&nbsp;</td><td>&nbsp;</td><td>28</td><td>0</td><td>0</td><td>2</td><td>180</td>
+   </tr>
+         <tr>
+    <td class="la">GK</td><td class="la">Pacheco</td><td>&nbsp;</td><td>&nbsp;</td><td>22</td><td>0</td><td>0</td><td>0</td><td>0</td>
+   </tr>
+   <tr>
+    <td class="la">CD</td><td class="la">Varane, R.</td><td>&nbsp;</td><td>&nbsp;</td><td>21</td><td>0</td><td>0</td><td>11</td><td>713</td>
+   </tr>
+   <tr>
+    <td class="la">CD</td><td class="la">Pepe</td><td>&nbsp;</td><td>&nbsp;</td><td>31</td><td>1</td><td>2</td><td>14</td><td>1260</td>
+   </tr>
+   <tr>
+    <td class="la">CD</td><td class="la">Sergio Ramos</td><td>&nbsp;</td><td>&nbsp;</td><td>28</td><td>2</td><td>0</td><td>16</td><td>1371</td>
+   </tr>
+         <tr>
+    <td class="la">CD</td><td class="la">Nacho</td><td>&nbsp;</td><td>&nbsp;</td><td>25</td><td>1</td><td>0</td><td>6</td><td>250</td>
+   </tr>
+      <tr>
+    <td class="la">LB</td><td class="la">Coentrao, F.</td><td>&nbsp;</td><td>&nbsp;</td><td>26</td><td>0</td><td>0</td><td>6</td><td>192</td>
+   </tr>
+         <tr>
+    <td class="la">LB</td><td class="la">Marcelo</td><td>&nbsp;</td><td>&nbsp;</td><td>26</td><td>0</td><td>5</td><td>17</td><td>1473</td>
+   </tr>
+         <tr>
+    <td class="la">RB</td><td class="la">Carvajal, D.</td><td>&nbsp;</td><td>&nbsp;</td><td>23</td><td>0</td><td>2</td><td>15</td><td>1183</td>
+   </tr>
+         <tr>
+    <td class="la">RB</td><td class="la">Arbeloa, A.</td><td>&nbsp;</td><td>&nbsp;</td><td>32</td><td>0</td><td>2</td><td>11</td><td>488</td>
+   </tr>
+      <tr>
+    <td class="la">DM</td><td class="la">Khedira, S.</td><td>&nbsp;</td><td>&nbsp;</td><td>27</td><td>0</td><td>0</td><td>8</td><td>158</td>
+   </tr>
+         <tr>
+    <td class="la">DM</td><td class="la">Illaramendi, A.</td><td>&nbsp;</td><td>&nbsp;</td><td>24</td><td>0</td><td>0</td><td>13</td><td>456</td>
+   </tr>
+      <tr>
+    <td class="la">CM</td><td class="la">Kroos, T.</td><td>&nbsp;</td><td>&nbsp;</td><td>25</td><td>1</td><td>7</td><td>19</td><td>1655</td>
+   </tr>
+         <tr>
+    <td class="la">CM</td><td class="la">Lucas Silva</td><td>&nbsp;</td><td>&nbsp;</td><td>21</td><td>0</td><td>0</td><td>0</td><td>0</td>
+   </tr>
+        <tr>
+    <td class="la">CM</td><td class="la">Modric, L.</td><td>&nbsp;</td><td>&nbsp;</td><td>29</td><td>1</td><td>2</td><td>10</td><td>839</td>
+   </tr>
+         <tr>
+    <td class="la">AM</td><td class="la">Isco</td><td>&nbsp;</td><td>&nbsp;</td><td>22</td><td>2</td><td>5</td><td>17</td><td>1061</td>
+   </tr>
+         <tr>
+    <td class="la">AM</td><td class="la">James Rodriguez</td><td>&nbsp;</td><td>&nbsp;</td><td>23</td><td>6</td><td>7</td><td>18</td><td>1438</td>
+   </tr>
+         <tr>
+    <td class="la">LW</td><td class="la">Bale, G.</td><td>&nbsp;</td><td>&nbsp;</td><td>25</td><td>10</td><td>4</td><td>16</td><td>1383</td>
+   </tr>
+            <tr>
+    <td class="la">CF</td><td class="la">Cristiano Ronaldo</td><td>&nbsp;</td><td>&nbsp;</td><td>29</td><td>28</td><td>9</td><td>18</td><td>1601</td>
+   </tr>
+      <tr>
+    <td class="la">CF</td><td class="la">Benzema, K.</td><td>&nbsp;</td><td>&nbsp;</td><td>27</td><td>9</td><td>8</td><td>17</td><td>1363</td>
+   </tr>
+   <tr>
+    <td class="la">CF</td><td class="la">Jese</td><td>&nbsp;</td><td>&nbsp;</td><td>21</td><td>0</td><td>0</td><td>2</td><td>31</td>
+   </tr>
+         <tr>
+    <td class="la">ST</td><td class="la">Chicharito</td><td>&nbsp;</td><td>&nbsp;</td><td>26</td><td>3</td><td>2</td><td>8</td><td>171</td>
+   </tr>
+  </table>
+ </body>
+</html>
