@@ -419,7 +419,7 @@
   {
     "id": 44,
     "date": "2023-06-06T20:34:44",
-    "views": 1,
+    "views": 2,
     "forwards": 0,
     "files": [
       {
@@ -444,14 +444,14 @@
     "id": 45,
     "date": "2023-06-06T20:34:49",
     "text": "Testing animated sticker.",
-    "views": 1,
+    "views": 2,
     "forwards": 0
   },
   {
     "id": 46,
     "date": "2023-06-06T20:35:28",
     "text": "<a href=\"https://decrypt.co/36296/sec-wrong-to-go-after-telegram-crypto-mom-hester-peirce\">https://decrypt.co/36296/sec-wrong-to-go-after-telegram-crypto-mom-hester-peirce</a>",
-    "views": 1,
+    "views": 2,
     "forwards": 0,
     "files": [
       {
@@ -489,13 +489,13 @@
     "id": 47,
     "date": "2023-06-06T20:35:47",
     "text": "Testing how «instant view» will look in tg-blog.",
-    "views": 1,
+    "views": 2,
     "forwards": 0
   },
   {
     "id": 48,
     "date": "2023-06-06T20:36:37",
-    "views": 1,
+    "views": 2,
     "forwards": 0,
     "files": [
       {
@@ -513,7 +513,7 @@
             "data": "MQ=="
           }
         ],
-        "total_voter_count": 1639217,
+        "total_voter_count": 1639233,
         "is_closed": false,
         "is_anonymous": true,
         "type": "REGULAR",
@@ -526,13 +526,13 @@
     "id": 49,
     "date": "2023-06-06T20:38:08",
     "text": "Testing how polls where (a lot) more than zero accounts voted look in tg-blog.",
-    "views": 1,
+    "views": 2,
     "forwards": 0
   },
   {
     "id": 50,
     "date": "2023-06-06T20:52:40",
-    "views": 1,
+    "views": 2,
     "forwards": 0,
     "files": [
       {
@@ -541,16 +541,16 @@
         "options": [
           {
             "text": "Удаление фонтанирующего баклажана 🍆",
-            "voter_count": 326179,
+            "voter_count": 326228,
             "data": "MA=="
           },
           {
             "text": "Полное прекращение работы Telegram на устройствах Apple",
-            "voter_count": 534915,
+            "voter_count": 534997,
             "data": "MQ=="
           }
         ],
-        "total_voter_count": 861094,
+        "total_voter_count": 861225,
         "is_closed": false,
         "is_anonymous": true,
         "type": "REGULAR",
@@ -564,7 +564,25 @@
     "id": 51,
     "date": "2023-06-06T20:57:22",
     "text": "Tried another Telegram founder’s poll to see how polls I’ve voted in look like on tg-blog.",
-    "views": 1,
+    "views": 2,
     "forwards": 0
+  },
+  {
+    "id": 52,
+    "date": "2023-06-11T16:55:58",
+    "views": 1,
+    "forwards": 0,
+    "files": [
+      {
+        "duration": 14,
+        "waveform": "SBUARCxHmXSOISSoUs5JgwwRSBGCEAAAKOKw5swZKSWDCAAAAABOSmI1s5aRjZw1AElttZbUQUWUYtQjxYAA",
+        "mime_type": "audio/ogg",
+        "date": "2023-06-11T16:55:58",
+        "media_type": "voice_message",
+        "original_name": "voice_2023-06-11_16-55-58.ogg",
+        "url": "media/52.ogg",
+        "size": 56612
+      }
+    ]
   }
 ]
