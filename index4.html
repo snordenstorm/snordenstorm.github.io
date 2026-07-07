@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Selected Unique UX Families</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <main class="app">
+      <section class="play">
+        <canvas id="game" width="64" height="64" aria-label="64 by 64 pixel game area"></canvas>
+      </section>
+      <aside class="panel">
+        <div class="game-buttons" id="gameButtons" aria-label="Choose game"></div>
+        <div class="selectors">
+          <label>
+            Level
+            <select id="levelSelect"></select>
+          </label>
+        </div>
+        <div class="actions">
+          <button id="resetButton" type="button">Reset</button>
+          <button id="nextButton" type="button">Next</button>
+        </div>
+        <h1 id="title"></h1>
+        <p id="objective"></p>
+        <p id="status"></p>
+        <div class="legend" id="legend"></div>
+      </aside>
+    </main>
+    <script>
+      window.GAME_FAMILY_FILTER = ["L002", "L003", "L004", "L005", "L009", "L010", "L012", "L050", "L052", "L130"];
+    </script>
+    <script src="index3-games.js"></script>
+  </body>
+</html>
